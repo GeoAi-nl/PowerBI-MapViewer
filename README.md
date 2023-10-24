@@ -50,7 +50,7 @@ ________________________________
 #### Installation
 
 - Ensure your Power BI report is in Edit mode
-- In the Visulization Tab, click the <kbd>...</kbd> (Get more Visuals) button at the bottom of the Build Visual panel
+- In the *Visualizations* tab, click the <kbd>...</kbd> (Get more Visuals) button at the bottom of the *Build Visual* panel
 - Choose *Import a visual from a file...*
 - Read the warning and, if you wish to proceed, choose Import
 - Browse to the MapViewer.pbiviz file and click <kbd>Open</kbd>
