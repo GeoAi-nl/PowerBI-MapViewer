@@ -5,6 +5,7 @@ The MapViewer Visual from GeoAI brings the power of a highly-configurable map to
 ________________________________
 
 <a name="contents" />
+
 ## Sections
 
 [Features - Free version](#section-features-free)
@@ -12,6 +13,7 @@ ________________________________
 ________________________________
 
 <a name="section-features-free" />
+
 ### Features - Free version
 
 - Add point data from your report using Latitude and Longitude coordinates
