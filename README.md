@@ -53,7 +53,7 @@ ________________________________
 - In the Visulization Tab, click the <kbd>...</kbd> (Get more Visuals) button at the bottom of the Build Visual panel
 - Choose *Import a visual from a file...*
 - Read the warning and, if you wish to proceed, choose Import
-- Browse to the MapViewer.pbiviz file and click *Open*
+- Browse to the MapViewer.pbiviz file and click <kbd>Open</kbd>
 - The MapViewer icon <img src="https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/993799fb-2636-429b-8c07-df68ab2281ca" width="15" />
  will appear below the panel of available Visuals 
 
