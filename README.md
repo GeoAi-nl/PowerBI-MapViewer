@@ -48,8 +48,8 @@ ________________________________
 ### Getting started
 
 
-The MapViewer icon will appear below the panel of available Visuals <img src="https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/993799fb-2636-429b-8c07-df68ab2281ca" width="30" />
-
+The MapViewer icon <img src="https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/993799fb-2636-429b-8c07-df68ab2281ca" width="25" />
+ will appear below the panel of available Visuals 
 
 
 [Back to top](#contents)
