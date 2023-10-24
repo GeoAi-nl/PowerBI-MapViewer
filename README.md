@@ -47,6 +47,7 @@ ________________________________
 
 ### Getting started
 
+#### Installation
 - Ensure your Power BI report is in Edit mode
 - In the Visulization Tab, click the <kbd>...</kbd> (Get more Visuals) button at the bottom of the Build Visual panel
 - Choose *Import a visual from a file...*
@@ -55,6 +56,10 @@ ________________________________
 - The MapViewer icon <img src="https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/993799fb-2636-429b-8c07-df68ab2281ca" width="25" />
  will appear below the panel of available Visuals 
 
+#### Quick start
+
+
+#### Advanced features
 
 [Back to top](#contents)
 
