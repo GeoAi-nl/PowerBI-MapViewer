@@ -48,6 +48,7 @@ ________________________________
 ### Getting started
 
 #### Installation
+
 - Ensure your Power BI report is in Edit mode
 - In the Visulization Tab, click the <kbd>...</kbd> (Get more Visuals) button at the bottom of the Build Visual panel
 - Choose *Import a visual from a file...*
