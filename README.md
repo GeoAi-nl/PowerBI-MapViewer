@@ -8,7 +8,8 @@ ________________________________
 
 ## Sections
 
-[Features - Free version](#section-features-free)  
+[Features - Free version](#section-features-free)
+
 [Coming soon](#section-coming-soon)
 
 ________________________________
