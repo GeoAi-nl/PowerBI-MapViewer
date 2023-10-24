@@ -49,6 +49,8 @@ ________________________________
 
 <img src="https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/993799fb-2636-429b-8c07-df68ab2281ca" width="30" />
 
+![location](https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/86638467-8a06-4b74-984e-3522fd5b7807)
+
 
 [Back to top](#contents)
 
