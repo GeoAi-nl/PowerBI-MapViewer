@@ -22,8 +22,13 @@ ________________________________
     - Size
 
 [comment]: # (#### Features - Pro version)
+
 [comment]: # (- Unlimited WMS layers)
+
 [comment]: # (- Add features using a WKT (Well-Known Text) column in your data)
+
 [comment]: # (- Add layers from WFS (Web Feature Services))
+
 [comment]: # (- View feature attributes)
+
 [comment]: # (- Query features using filters and selections across your report)
