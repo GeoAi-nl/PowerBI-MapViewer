@@ -54,7 +54,7 @@ ________________________________
 - Choose *Import a visual from a file...*
 - Read the warning and, if you wish to proceed, choose Import
 - Browse to the MapViewer.pbiviz file and click *Open*
-- The MapViewer icon <img src="https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/993799fb-2636-429b-8c07-df68ab2281ca" width="25" />
+- The MapViewer icon <img src="https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/993799fb-2636-429b-8c07-df68ab2281ca" width="15" />
  will appear below the panel of available Visuals 
 
 #### Quick start
