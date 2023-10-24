@@ -21,7 +21,7 @@ ________________________________
     - Graduated colour
     - Size
 
-[comment]: # ### Features - Pro version
+[comment]: # (#### Features - Pro version)
 
 - Unlimited WMS layers
 - Add features using a WKT (Well-Known Text) column in your data  
