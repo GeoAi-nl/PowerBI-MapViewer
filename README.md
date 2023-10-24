@@ -8,6 +8,4 @@ ________________________________
 
 #### Add point data from your report using Latitude and Longitude coordinates
 
-![mapviewer - add xy layer](https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/1f816b2a-82d9-4a00-b879-1fbdc564bf08)
-
-[<img src="https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/1f816b2a-82d9-4a00-b879-1fbdc564bf08" width="300" />]
+![<img src="https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/1f816b2a-82d9-4a00-b879-1fbdc564bf08" width="300" />]
