@@ -9,6 +9,7 @@ ________________________________
 ## Sections
 
 [Features - Free version](#section-features-free)
+[Coming soon](#section-coming-soon)
 
 ________________________________
 
@@ -28,10 +29,14 @@ ________________________________
 
 [Back to top](#contents)
 
+<a name="section-coming-soon" />
+
 ### Coming soon
 - Attribute-based styling for points
     - Graduated colour
     - Size
+ 
+[Back to top](#contents)
 
 <!---
 #### Features - Pro version
