@@ -14,6 +14,8 @@ ________________________________
 
 [Coming soon](#section-coming-soon)
 
+[Getting started](#section-installation)
+
 ________________________________
 
 <a name="section-features-free" />
@@ -39,6 +41,12 @@ ________________________________
     - Graduated colour
     - Size
  
+[Back to top](#contents)
+
+<a name="section-installation" />
+
+### Getting started
+
 [Back to top](#contents)
 
 <!---
