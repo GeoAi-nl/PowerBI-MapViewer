@@ -3,7 +3,13 @@
 The MapViewer Visual from GeoAI brings the power of a highly-configurable map to your Microsoft PowerBI report. This feature-rich Visual lets you show locations in your report on a basemap of your choosing. Web Mapping Service (WMS) layers can be added to enrich your map with extra information. You can create a library of your favourite WMS endpoints and your layer styling and map extent is saved within the Power BI report.
 
 ________________________________
+<a name="contents" />
+## Sections
 
+[Features - Free version](#section-features-free)
+
+________________________________
+<a name="section-features-free" />
 ### Features - Free version
 
 - Add point data from your report using Latitude and Longitude coordinates
@@ -15,6 +21,8 @@ ________________________________
 - Choose from a range of basemaps
 - Add up to 4 WM(T)S (Web Mapping (Tile) Service) layers
 - Save your favourite WM(T)S endpoints
+
+[Back to top](#contents)
 
 ### Coming soon
 - Attribute-based styling for points
