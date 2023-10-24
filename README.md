@@ -4,7 +4,7 @@ The MapViewer Visual from GeoAI brings the power of a highly-configurable map to
 
 ________________________________
 
-### Features
+### Features - Free version
 
 - Add point data from your report using Latitude and Longitude coordinates
 
@@ -13,11 +13,17 @@ ________________________________
 - The points react to filters and selections across your Power BI report
 - Style the points by choosing fill colour, stroke colour, and size
 - Choose from a range of basemaps
-- Add up to 4 Web Mapping (Tile) Service [WM(T)S] layers
+- Add up to 4 WM(T)S (Web Mapping (Tile) Service) layers
 - Save your favourite WM(T)S endpoints
-
 
 ### Coming soon
 - Attribute-based styling for points
     - Graduated colour
     - Size
+
+[comment]: # ### Features - Pro version
+- Unlimited WMS layers
+- Add features using a WKT (Well-Known Text) column in your data  
+- Add layers from WFS (Web Feature Services)
+- View feature attributes
+- Query features using filters and selections across your report
