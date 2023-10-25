@@ -147,9 +147,11 @@ You will be notified if there is no legend or abstract information available for
 
 ### Save your map configuration to your Power BI report
 - Saving your map means users of your report will see it exactly how you intend
+- Almost everything you can configure in the MapViewer visual will be saved
+    - Including the basemap, map extent, layers, layer opacity, point styling, favourite endpoints
 - ⚠️ Don't forget to save the Power BI report after saving the map settings ⚠️
 
-![mapviewer - save](https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/bfc6a302-14b8-46b1-9449-72908db5a1b3)
+![mapviewer - save](https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/bd343182-2fea-40c9-92d7-1e882b5ba9dd)
 
 [Back to top](#top)
 
