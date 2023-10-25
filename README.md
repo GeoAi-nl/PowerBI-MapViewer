@@ -4,7 +4,7 @@
 
 ## Overview
 
-The MapViewer Visual from [GeoAI](https://www.geoai.nl) brings the power of a highly-configurable map to your Microsoft PowerBI report. This feature-rich Visual enables you to show locations in your report from Longitude and Latitude fields in your data table. Choose from a range of basemaps to provide context to your data. Additionally, Web Mapping Service (WMS) layers can be added to enrich your map with extra information. You can create a library of your favourite WMS endpoints and your layer styling and map extent is saved within the Power BI report.
+The MapViewer Visual from [GeoAI](https://www.geoai.nl) brings the power of a highly-configurable map to your Microsoft PowerBI report. This feature-rich Visual enables you to show locations in your report from Longitude and Latitude fields in your data table. Choose from a range of basemaps to provide context to your data. Additionally, Web Mapping Service (WMS) layers can be added to enrich your map with extra information. You can create a library of your favourite WMS endpoints and your layers together with their styling and the map extent are saved within the Power BI report.
 
 <p align="center">
     <img src="https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/9562eddd-4531-4f9e-ba67-1dccef47bbb9" width="800">
