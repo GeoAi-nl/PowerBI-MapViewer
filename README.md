@@ -165,7 +165,7 @@ The MapViewer Visual from [GeoAI](https://www.geoai.nl) brings the power of a hi
 
 ### Help to improve the MapViewer Visual
 
-The MapViewer Visual is in active development and often updated with tweaks, bug fixes, and new features. If you experience a bug or an unexpected behaviour, please let us know by sending us a message at [info@geoai.nl](info@geoai.nl).
+The MapViewer Visual is in active development and often updated with tweaks, bug fixes, and new features. If you experience a bug or an unexpected behaviour, please let us know by sending us a message at [info@geoai.nl](https://www.geoai.nl/en/contact-en).
 
 <!---
 #### Features - Pro version
