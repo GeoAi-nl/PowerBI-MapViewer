@@ -85,12 +85,19 @@ Use <kbd>Shift</kbd> + Click to select multiple data points
 <a name="feature-filter" />
 
 #### Filter the points using a slicer
-Choose whether the map zooms to the sliced features by toggling the zoom lock <img src="https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/3a27f8d7-38eb-4861-993e-caad7e3d1ef3" width="20" />
+Choose whether the map zooms to the sliced features by toggling the zoom lock <img src="https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/3a27f8d7-38eb-4861-993e-caad7e3d1ef3" width="15" />
 
 ![mapviewer - filter](https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/9311d6ee-3034-4ce0-b817-dee156228dbd)
 
 [Back to top](#top)
 
+<a name="feature-style-points" />
+
+#### Style the points by choosing fill colour, stroke colour, and size
+- Right-click the layer name to bring up the context menu with extra options
+- Click the Style Layer button to show the styling options
+  
+![mapviewer - style points](https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/1a3c671b-b02d-4713-9bdb-98a52fc76702)
 
 [Back to top](#top)
 
