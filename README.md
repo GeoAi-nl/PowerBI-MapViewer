@@ -14,7 +14,7 @@ ________________________________
 
 [Coming soon](#section-coming-soon)
 
-[Getting started](#section-installation)
+[Getting started](#section-getting-started)
 
 ________________________________
 
@@ -23,14 +23,14 @@ ________________________________
 ### Features - Free version
 
 - Add point data from your report using Latitude and Longitude coordinates ➡️ [show me](#feature-add-points)
-
-
-
-- The points react to filters and selections across your Power BI report
-- Style the points by choosing fill colour, stroke colour, and size
-- Choose from a range of basemaps
-- Add up to 4 WM(T)S (Web Mapping (Tile) Service) layers
-- Save your favourite WM(T)S endpoints
+- Select data using either the map or in other visuals in your report  ➡️ [show me](#feature-select)
+- Zoom to your selected data ➡️ [show me](#feature-zoom-selection)
+- Filter the points using a slicer
+- Style the points by choosing fill colour, stroke colour, and size ➡️ [show me](#feature-style-points)
+- Choose from a range of basemaps ➡️ [show me](#feature-basemap)
+- Add up to 4 WM(T)S (Web Mapping (Tile) Service) layers ➡️ [show me](#feature-wms)
+- Save your favourite WM(T)S endpoints ➡️ [show me](#feature-favourite-endpoints)
+- View the Legend and Abstract of WMS layers ➡️ [show me](#feature-legend-abstract)
 
 [Back to top](#contents)
 
@@ -43,9 +43,11 @@ ________________________________
  
 [Back to top](#contents)
 
-<a name="section-installation" />
+<a name="section-getting-started" />
 
 ### Getting started
+
+<a name="section-installation" />
 
 #### Installation
 
@@ -64,6 +66,8 @@ ________________________________
 - Add point data from your report using Latitude and Longitude coordinates
 
 <img src="https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/1f816b2a-82d9-4a00-b879-1fbdc564bf08" width="500" />
+
+<a name="feature-filter" />
 
 [Back](#contents)
 
