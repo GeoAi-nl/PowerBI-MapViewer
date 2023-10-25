@@ -123,6 +123,25 @@ The MapViewer Visual from [GeoAI](https://www.geoai.nl) brings the power of a hi
 
 [Back to top](#top)
 
+<a name="feature-favourite-endpoints" />
+
+### Save your favourite WM(T)S endpoints
+- Favourite endpoints can be re-ordered by dragging and dropping
+- Right-Click to remove an endpoint from the favourites list
+
+![mapviewer - favourite endpoints](https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/20555da5-9138-41ae-af2f-5e806b40ffe8)
+
+[Back to top](#top)
+
+<a name="feature-legend-abstract" />
+
+### View the Legend and Abstract of WMS layers
+You will be notified if there is no legend or abstract information available for the layer
+
+![mapviewer - legend](https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/31fd3afc-1a42-44b1-8cd6-f59f33fea164)
+
+[Back to top](#top)
+
 <!---
 #### Features - Pro version
 - Unlimited WMS layers
