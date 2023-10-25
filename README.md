@@ -164,10 +164,10 @@ The MapViewer Visual from [GeoAI](https://www.geoai.nl) brings the power of a hi
 <a name="section-report" />
 
 ## Help to improve the MapViewer Visual
-The MapViewer Visual is in active development and often updated with tweaks and bug fixes. If you experience a bug or an unexpected behaviour, please let us know by sending us a message at [info@geoai.nl](https://www.geoai.nl/en/contact-en){:target="_blank"}.
+The MapViewer Visual is in active development and often updated with tweaks and bug fixes. If you experience a bug or an unexpected behaviour, please let us know by sending us a message at [info@geoai.nl](https://www.geoai.nl/en/contact-en){target="_blank"}.
 
 ## MapViewer Pro
-If you are interested in our MapViewer Pro with more features and richer interactivity with your Power BI report, or you wish to sponsor a specific feature request, we are very happy to hear from you. Let's begin a discussion [info@geoai.nl](https://www.geoai.nl/en/contact-en){:target="_blank"}.
+If you are interested in our MapViewer Pro with more features and richer interactivity with your Power BI report, or you wish to sponsor a specific feature request, we are very happy to hear from you. Let's begin a discussion [info@geoai.nl](https://www.geoai.nl/en/contact-en){target="_blank"}. 
 
 ### Roadmap
 
