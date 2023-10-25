@@ -28,8 +28,6 @@ The MapViewer Visual from [GeoAI](https://www.geoai.nl) brings the power of a hi
 - Save your favourite WM(T)S endpoints ➡️ [show me](#feature-favourite-endpoints)
 - View the Legend and Abstract of WMS layers ➡️ [show me](#feature-legend-abstract)
 
-[Back to top](#contents)
-
 <a name="section-coming-soon" />
 
 ## Coming soon
