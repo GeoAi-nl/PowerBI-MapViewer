@@ -69,7 +69,7 @@ ________________________________
 
 <a name="feature-select" />
 
-##### Select data using either the map or in other visuals in your report
+##### Select data using either the map or in other visuals in your report  
 Use Shift + Click to select multiple data points
 
 ![mapviewer - select points](https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/9251afaa-cf94-43cc-b25b-6f961675836d)
