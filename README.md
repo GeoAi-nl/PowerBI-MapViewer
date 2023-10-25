@@ -24,8 +24,8 @@ The MapViewer Visual from [GeoAI](https://www.geoai.nl) brings the power of a hi
 - Select data using either the map or in other visuals in your report  ➡️ [show me](#feature-select)
 - Zoom to your selected data ➡️ [show me](#feature-zoom-selection)
 - Filter the points using a slicer ➡️ [show me](#feature-filter)
-- Style the points by choosing fill colour, stroke colour, and size ➡️ [show me](#feature-style-points)
-- Choose from a range of basemaps ➡️ [show me](#feature-basemap)
+- Style the points by choosing fill colour and opacity, stroke colour, and size ➡️ [show me](#feature-style-points)
+- Choose from a range of basemaps to suit your map style ➡️ [show me](#feature-basemap)
 - Add up to 4 WM(T)S (Web Mapping (Tile) Service) layers ➡️ [show me](#feature-wms)
 - Save your favourite WM(T)S endpoints ➡️ [show me](#feature-favourite-endpoints)
 - View the Legend and Abstract of WMS layers ➡️ [show me](#feature-legend-abstract)
@@ -93,11 +93,20 @@ Choose whether the map zooms to the sliced features by toggling the zoom lock <i
 
 <a name="feature-style-points" />
 
-#### Style the points by choosing fill colour, stroke colour, and size
+#### Style the points by choosing fill colour and opacity, stroke colour, and size
 - Right-click the layer name to bring up the context menu with extra options
 - Click the Style Layer button to show the styling options
   
 ![mapviewer - style points](https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/1a3c671b-b02d-4713-9bdb-98a52fc76702)
+
+[Back to top](#top)
+
+<a name-"feature-basemap" />
+
+### Choose from a range of basemaps to suit your map style
+You can even choose not to show a basemap
+
+![mapviewer - basemap](https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/40f49a9e-1746-44d4-a6cd-ffa0935fdca5)
 
 [Back to top](#top)
 
