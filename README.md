@@ -55,6 +55,8 @@ The MapViewer Visual from [GeoAI](https://www.geoai.nl) brings the power of a hi
 - The MapViewer icon <img src="https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/993799fb-2636-429b-8c07-df68ab2281ca" width="15" />
  will appear below the panel of available Visuals
 
+![mapviewer - installation](https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/59724021-6f93-4146-adb8-d5381478add9)
+
 [Back to top](#top)
 
 <a name="section-quick-start" />
