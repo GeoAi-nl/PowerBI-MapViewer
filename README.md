@@ -69,6 +69,8 @@ ________________________________
 
 <a name="feature-select" />
 
+- Select data using either the map or in other visuals in your report
+
 ![mapviewer - select points](https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/7d705a03-d502-433c-a595-e4b217dfa769)
 
 
