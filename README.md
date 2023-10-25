@@ -29,6 +29,7 @@ The MapViewer Visual from [GeoAI](https://www.geoai.nl) brings the power of a hi
 - Add up to 4 WM(T)S (Web Mapping (Tile) Service) layers ➡️ [show me](#feature-wms)
 - Save your favourite WM(T)S endpoints ➡️ [show me](#feature-favourite-endpoints)
 - View the Legend and Abstract of WMS layers ➡️ [show me](#feature-legend-abstract)
+- Save your map configuration to your Power BI report ➡️ [show me](#feature-save)
 
 <a name="section-coming-soon" />
 
@@ -139,6 +140,16 @@ The MapViewer Visual from [GeoAI](https://www.geoai.nl) brings the power of a hi
 You will be notified if there is no legend or abstract information available for the layer
 
 ![mapviewer - legend](https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/31fd3afc-1a42-44b1-8cd6-f59f33fea164)
+
+[Back to top](#top)
+
+<a name="feature-save" />
+
+### Save your map configuration to your Power BI report
+- Saving your map means users of your report will see it exactly how you intend
+- ⚠️ Don't forget to save the Power BI report after saving the map settings ⚠️
+
+![mapviewer - save](https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/bfc6a302-14b8-46b1-9449-72908db5a1b3)
 
 [Back to top](#top)
 
