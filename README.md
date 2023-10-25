@@ -20,7 +20,7 @@ ________________________________
 
 <a name="section-features-free" />
 
-### Features - Free version
+## Features - Free version
 
 - Add point data from your report using Latitude and Longitude coordinates ➡️ [show me](#feature-add-points)
 - Select data using either the map or in other visuals in your report  ➡️ [show me](#feature-select)
@@ -36,7 +36,7 @@ ________________________________
 
 <a name="section-coming-soon" />
 
-### Coming soon
+## Coming soon
 - Attribute-based styling for points
     - Graduated colour
     - Size
@@ -45,11 +45,11 @@ ________________________________
 
 <a name="section-getting-started" />
 
-### Getting started
+## Getting started
 
 <a name="section-installation" />
 
-#### Installation
+### Installation
 
 - Ensure your Power BI report is in Edit mode
 - In the *Visualizations* tab, click the <kbd>...</kbd> (Get more Visuals) button at the bottom of the *Build Visual* panel
@@ -59,18 +59,18 @@ ________________________________
 - The MapViewer icon <img src="https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/993799fb-2636-429b-8c07-df68ab2281ca" width="15" />
  will appear below the panel of available Visuals 
 
-#### Quick start
+### Quick start
 
 <a name="feature-add-points" />
 
-##### Add point data from your report using Latitude and Longitude coordinates
+#### Add point data from your report using Latitude and Longitude coordinates
 
 <img src="https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/1f816b2a-82d9-4a00-b879-1fbdc564bf08" width="500" />
 
 <a name="feature-select" />
 
-##### Select data using either the map or in other visuals in your report  
-Use Shift + Click to select multiple data points
+#### Select data using either the map or in other visuals in your report  
+Use <kbd>Shift</kbd> + Click to select multiple data points
 
 ![mapviewer - select points](https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/9251afaa-cf94-43cc-b25b-6f961675836d)
 
@@ -79,7 +79,7 @@ Use Shift + Click to select multiple data points
 
 [Back](#contents)
 
-#### Advanced features
+### Advanced features
 
 [Back to top](#contents)
 
