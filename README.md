@@ -63,13 +63,13 @@ ________________________________
 
 <a name="feature-add-points" />
 
-- Add point data from your report using Latitude and Longitude coordinates
+##### Add point data from your report using Latitude and Longitude coordinates
 
 <img src="https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/1f816b2a-82d9-4a00-b879-1fbdc564bf08" width="500" />
 
 <a name="feature-select" />
 
-- Select data using either the map or in other visuals in your report
+##### Select data using either the map or in other visuals in your report
 Use Shift + Click to select multiple data points
 
 ![mapviewer - select points](https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/9251afaa-cf94-43cc-b25b-6f961675836d)
