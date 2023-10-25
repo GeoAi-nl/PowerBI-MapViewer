@@ -63,7 +63,7 @@ The MapViewer Visual from [GeoAI](https://www.geoai.nl) brings the power of a hi
 
 <img src="https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/1f816b2a-82d9-4a00-b879-1fbdc564bf08" width="500" />
 
-[Back](#contents)
+[Back to top](#contents)
 
 <a name="feature-select" />
 
@@ -72,7 +72,7 @@ Use <kbd>Shift</kbd> + Click to select multiple data points
 
 ![mapviewer - select points](https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/9251afaa-cf94-43cc-b25b-6f961675836d)
 
-[Back](#contents)
+[Back to top](#contents)
 
 <a name="feature-zoom-selection" />
 
@@ -80,11 +80,11 @@ Use <kbd>Shift</kbd> + Click to select multiple data points
 
 ![mapviewer - zoom selection](https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/a8803acb-ffae-4469-8a1c-7b2f71a88abd)
 
-[Back](#contents)
+[Back to top](#contents)
 
 <a name="feature-filter" />
 
-[Back](#contents)
+[Back to top](#contents)
 
 ### Advanced features
 
