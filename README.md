@@ -173,11 +173,13 @@ The MapViewer Visual is in active development and often updated with tweaks and 
 <a name="section-pro" />
 
 ## MapViewer Pro
-If you are interested in our MapViewer Pro with more features and richer interactivity with your Power BI report, or you wish to sponsor a specific feature request, we are very happy to hear from you. Let's begin a discussion <a href="https://www.geoai.nl/en/contact-en" target="_blank">info<b>@</b>geoai.nl</a>
-
-### Roadmap
+If you are interested in our MapViewer Pro with more features and richer interactivity with your Power BI report, or you wish to sponsor a specific feature request, we are very happy to hear from you. Let's begin a discussion at <a href="https://www.geoai.nl/en/contact-en" target="_blank">info<b>@</b>geoai.nl</a>
 
 [Back to top](#top)
+
+<!---
+### Roadmap
+-->
 
 <!---
 #### Features - Pro version
