@@ -4,8 +4,6 @@
 
 The MapViewer Visual from [GeoAI](https://www.geoai.nl) brings the power of a highly-configurable map to your Microsoft PowerBI report. This feature-rich Visual lets you show locations in your report from Longitude and Latitude fields in your data table. Choose from a range of basemaps to provide context. Additionally, Web Mapping Service (WMS) layers can be added to enrich your map with extra information. You can create a library of your favourite WMS endpoints and your layer styling and map extent is saved within the Power BI report.
 
-________________________________
-
 <a name="contents" />
 
 ## Sections
@@ -15,8 +13,6 @@ ________________________________
 [Coming soon](#section-coming-soon)
 
 [Getting started](#section-getting-started)
-
-________________________________
 
 <a name="section-features-free" />
 
@@ -67,6 +63,8 @@ ________________________________
 
 <img src="https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/1f816b2a-82d9-4a00-b879-1fbdc564bf08" width="500" />
 
+[Back](#contents)
+
 <a name="feature-select" />
 
 #### Select data using either the map or in other visuals in your report  
@@ -74,6 +72,15 @@ Use <kbd>Shift</kbd> + Click to select multiple data points
 
 ![mapviewer - select points](https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/9251afaa-cf94-43cc-b25b-6f961675836d)
 
+[Back](#contents)
+
+<a name="feature-zoom-selection" />
+
+#### Zoom to your selection
+
+![mapviewer - zoom selection](https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/a8803acb-ffae-4469-8a1c-7b2f71a88abd)
+
+[Back](#contents)
 
 <a name="feature-filter" />
 
