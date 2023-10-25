@@ -6,7 +6,7 @@
 
 The MapViewer Visual from [GeoAI](https://www.geoai.nl) brings the power of a highly-configurable map to your Microsoft PowerBI report. This feature-rich Visual lets you show locations in your report from Longitude and Latitude fields in your data table. Choose from a range of basemaps to provide context. Additionally, Web Mapping Service (WMS) layers can be added to enrich your map with extra information. You can create a library of your favourite WMS endpoints and your layer styling and map extent is saved within the Power BI report.
 
-🪛 The MapViewer Visual is in active development and often updated with tweaks, bug fixes, and new features. [Report a bug](#section-report) 🔨  
+🪛 The MapViewer Visual is in active development and often updated with tweaks, bug fixes, and new features. [Report a bug](#section-improve) 🔨  
 ✔️ Be sure to update to the latest release for the most stable version.
 
 <a name="contents" />
@@ -18,6 +18,10 @@ The MapViewer Visual from [GeoAI](https://www.geoai.nl) brings the power of a hi
 [Coming soon](#section-coming-soon)
 
 [Getting started](#section-getting-started)
+
+[Help to improve MapViewer](#section-improve)
+
+[MapViewerPro](#section-pro)
 
 <a name="section-features-free" />
 
@@ -161,10 +165,12 @@ The MapViewer Visual from [GeoAI](https://www.geoai.nl) brings the power of a hi
 
 [Back to top](#top)
 
-<a name="section-report" />
+<a name="section-improve" />
 
 ## Help to improve the MapViewer Visual
 The MapViewer Visual is in active development and often updated with tweaks and bug fixes. If you experience a bug or an unexpected behaviour, please let us know by sending us a message at <a href="https://www.geoai.nl/en/contact-en" target="_blank">info<b>@</b>geoai.nl</a>
+
+<a name="section-pro" />
 
 ## MapViewer Pro
 If you are interested in our MapViewer Pro with more features and richer interactivity with your Power BI report, or you wish to sponsor a specific feature request, we are very happy to hear from you. Let's begin a discussion <a href="https://www.geoai.nl/en/contact-en" target="_blank">info<b>@</b>geoai.nl</a>
