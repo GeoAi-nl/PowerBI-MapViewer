@@ -48,7 +48,7 @@ The MapViewer Visual from [GeoAI](https://www.geoai.nl) brings the power of a hi
 - Ensure your Power BI report is in Edit mode
 - In the *Visualizations* tab, click the <kbd>...</kbd> (Get more Visuals) button at the bottom of the *Build Visual* panel
 - Choose *Import a visual from a file...*
-- Read the warning and, if you wish to proceed, choose <h1><span "style"="background-color:green">Import</span></h1>
+- Read the warning and, if you wish to proceed, choose <span "style"="color:green">Import</span>
 - Browse to the MapViewer.pbiviz file and click <kbd>Open</kbd>
 - The MapViewer icon <img src="https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/993799fb-2636-429b-8c07-df68ab2281ca" width="15" />
  will appear below the panel of available Visuals 
