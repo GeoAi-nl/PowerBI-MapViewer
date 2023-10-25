@@ -137,7 +137,8 @@ The MapViewer Visual from [GeoAI](https://www.geoai.nl) brings the power of a hi
 <a name="feature-legend-abstract" />
 
 ### View the Legend and Abstract of WMS layers
-You will be notified if there is no legend or abstract information available for the layer
+- The availability of the legend and/ or abstract depends on the service provider
+- You will be notified if there is no legend or abstract information available for the layer
 
 ![mapviewer - legend](https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/31fd3afc-1a42-44b1-8cd6-f59f33fea164)
 
