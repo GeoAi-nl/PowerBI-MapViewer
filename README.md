@@ -55,6 +55,8 @@ The MapViewer Visual from [GeoAI](https://www.geoai.nl) brings the power of a hi
 - The MapViewer icon <img src="https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/993799fb-2636-429b-8c07-df68ab2281ca" width="15" />
  will appear below the panel of available Visuals
 
+[Back to top](#top)
+
 ### Quick start
 
 <a name="feature-add-points" />
@@ -101,7 +103,7 @@ Choose whether the map zooms to the sliced features by toggling the zoom lock <i
 
 [Back to top](#top)
 
-<a name-"feature-basemap" />
+<a name="feature-basemap" />
 
 ### Choose from a range of basemaps to suit your map style
 You can even choose not to show a basemap
