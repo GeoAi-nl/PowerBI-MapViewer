@@ -22,7 +22,7 @@ ________________________________
 
 ### Features - Free version
 
-- Add point data from your report using Latitude and Longitude coordinates [<span style="font-size=20pt">show me</span>](#feature-add-points)
+- Add point data from your report using Latitude and Longitude coordinates ➡️ [show me](#feature-add-points)
 
 
 
