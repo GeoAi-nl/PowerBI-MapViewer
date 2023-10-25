@@ -46,7 +46,6 @@ The MapViewer Visual from [GeoAI](https://www.geoai.nl) brings the power of a hi
 <a name="section-installation" />
 
 ### Installation
-
 - Ensure your Power BI report is in Edit mode
 - In the *Visualizations* tab, click the <kbd>...</kbd> (Get more Visuals) button at the bottom of the *Build Visual* panel
 - Choose *Import a visual from a file...*
@@ -56,6 +55,8 @@ The MapViewer Visual from [GeoAI](https://www.geoai.nl) brings the power of a hi
  will appear below the panel of available Visuals
 
 [Back to top](#top)
+
+<a name="section-quick-start" />
 
 ### Quick start
 
@@ -70,7 +71,7 @@ The MapViewer Visual from [GeoAI](https://www.geoai.nl) brings the power of a hi
 <a name="feature-select" />
 
 #### Select data using either the map or in other visuals in your report  
-Use <kbd>Shift</kbd> + Click to select multiple data points
+- Use <kbd>Shift</kbd> + Click to select multiple data points
 
 ![mapviewer - select points](https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/9251afaa-cf94-43cc-b25b-6f961675836d)
 
@@ -87,7 +88,7 @@ Use <kbd>Shift</kbd> + Click to select multiple data points
 <a name="feature-filter" />
 
 #### Filter the points using a slicer
-Choose whether the map zooms to the sliced features by toggling the zoom lock <img src="https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/3a27f8d7-38eb-4861-993e-caad7e3d1ef3" width="15" />
+- Choose whether the map zooms to the sliced features by toggling the zoom lock <img src="https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/3a27f8d7-38eb-4861-993e-caad7e3d1ef3" width="15" />
 
 ![mapviewer - filter](https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/9311d6ee-3034-4ce0-b817-dee156228dbd)
 
@@ -106,9 +107,19 @@ Choose whether the map zooms to the sliced features by toggling the zoom lock <i
 <a name="feature-basemap" />
 
 ### Choose from a range of basemaps to suit your map style
-You can even choose not to show a basemap
+- You can even choose not to show a basemap
 
 ![mapviewer - basemap](https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/40f49a9e-1746-44d4-a6cd-ffa0935fdca5)
+
+[Back to top](#top)
+
+<a name="feature-wms" />
+
+### Add up to 4 WM(T)S (Web Mapping (Tile) Service) layers
+- Layers can be ordered by dragging and dropping them in the Layers Panel
+- Adjust the opacity of the WM(T)S layers to further enrich your map design
+
+![mapviewer - wms](https://github.com/GeoAi-nl/PowerBI-MapViewer/assets/145410383/a9fb3ea2-b58f-423a-bb88-d1fd7df5a805)
 
 [Back to top](#top)
 
